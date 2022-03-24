@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    
+}
+body,html{
+    font-size: 16px;
+    font-weight: 700;
+}
+.big_header{
+text-align: center;
+
+}
+
+.first_title{
+    text-align: center;
+}
+
+.second_title{
+    text-align: center;
+
+}
+
+.third_title{
+    text-align: center;
+}
